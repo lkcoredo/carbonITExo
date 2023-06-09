@@ -1,0 +1,33 @@
+Exemple 1:
+C - 3 - 4
+M - 1 - 1
+M - 2 - 2
+T - 0 - 3 - 2
+T - 1 - 3 - 1
+A - Indiana - 1 - 1 - S - AAGDA
+séquence de mouvements "AAGDA"
+
+C - 3 - 4
+M - 1 - 1
+M - 2 - 2
+T - 0 - 3 - 0
+T - 1 - 3 - 1
+A - Indiana - 1 - 2 - S - 1
+La position finale de "Indiana" est (1, 2) avec une orientation vers le sud. Il a ramassé 1 trésor au total.
+
+Exemple 2:
+C - 3 - 4
+M - 1 - 1
+M - 2 - 2
+T - 0 - 3 - 2
+T - 1 - 3 - 1
+A - Indiana - 0 - 0 - E - AAA
+séquence de mouvements "AAA"
+
+C - 3 - 4
+M - 1 - 1
+M - 2 - 2
+T - 0 - 3 - 2
+T - 1 - 3 - 1
+A - Indiana - 2 - 0 - E - 0
+La position finale de "Indiana" est (2, 0) avec une orientation vers l'est. Il n'a ramassé aucun trésor.

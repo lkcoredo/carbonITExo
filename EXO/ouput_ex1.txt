@@ -1,0 +1,12 @@
+C - 3 - 4
+M - 1 - 1
+M - 2 - 2
+T - 0 - 3 - 1
+T - 1 - 3 - 0
+A - Indiana - 0 - 3 - S - 2
+
+
+// Ce fichier indique que la carte a une dimension de 3x4, avec deux montagnes aux positions 
+// (1, 1) et (2, 2). Les trésors restants sont indiqués pour chaque case où ils se trouvent. 
+// L'aventurier "Indiana" a terminé son parcours en position (0, 3) avec une orientation vers 
+// le sud, et il a ramassé 2 trésors au total.
